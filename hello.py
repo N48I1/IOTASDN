@@ -1,1 +1,1 @@
-print('hello ENIAD innovers')
+print('hello')
